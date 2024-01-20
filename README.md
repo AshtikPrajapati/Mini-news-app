@@ -12,3 +12,5 @@ Author: Ashtik prajapati
 4. You can search any types of NEWS in the search box e.g: weather news, sports, bollywoods, technologies, scientific, etc.
 <br>
 5. In read more option you redirect to the other page where all news are retrieve. 
+<br>
+#run code by this (url)= http://localhost:8080/?q=bollywood%20&pageno=1
