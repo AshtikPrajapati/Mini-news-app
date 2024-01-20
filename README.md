@@ -1,14 +1,14 @@
 # Mini-news-app
  This is my final year project, I'm using Api for fetching the news data manage the data and arrange it with Bootstrap. 
 <br>
- This is basically API fetching news app by using expressJs and Api.
- <br>
 Author: Ashtik prajapati
+ <br>
+1.This is basically API fetching news app by using expressJs and Api.
 <br>
-1. And i'm using here (html, css, javaScript(Express.Js), and Bootstrap) and retrieveing the all news data's from Api.
+2. And i'm using here (html, css, javaScript(Express.Js), and Bootstrap) and retrieveing the all news data's from Api.
 <br>
-2. Fetching from newsAPI and contain in it the frontend page where display all the types of NEWS.
+3. Fetching from newsAPI and contain in it the frontend page where display all the types of NEWS.
 <br>
-3. You can search any types of NEWS in the search box e.g: weather news, sports, bollywoods, technologies, scientific, etc.
+4. You can search any types of NEWS in the search box e.g: weather news, sports, bollywoods, technologies, scientific, etc.
 <br>
-4. In read more option you redirect to the other page where all news are retrieve. 
+5. In read more option you redirect to the other page where all news are retrieve. 
